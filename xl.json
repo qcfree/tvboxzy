@@ -39,9 +39,9 @@
 
 {"name":"小苹果JS","url":"https://s2.pub/xpg"},
 
-{"name":"蜂蜜","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"蜂蜜","url":"https://cdn.staticaly.com/gh/FongMi/CatVodSpider/main/json/config.json"},
 
-{"name":"蜂蜜Sex","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"}
+{"name":"蜂蜜Sex","url":"https://cdn.staticaly.com/gh/FongMi/CatVodSpider/main/json/adult.json"}
 
 ],
 "vip": [
