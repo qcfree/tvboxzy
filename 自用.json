@@ -154,6 +154,7 @@
 {"key":"csp_XBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/歪片星球.json"},
 
 {"key":"csp_XBPQ_达达龟","name":"达达龟","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/达达龟.json"},
+{"key":"csp_XBPQ_追剧兔","name":"追剧兔","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/追剧兔.json"},  
 
 {"key":"csp_XBPQ_TVB云播","name":"TVB云播","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/TVB云播.json","jar":"./jar/fty.jar"},
 
