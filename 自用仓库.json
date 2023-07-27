@@ -2,7 +2,7 @@
 "storeHouse":[
 {
 "sourceName":"在线仓库",
-"sourceUrl":"https://raw.kgithub.com/qcfree/tvboxzy/main/自用线路.json"
+"sourceUrl":"https://cdn.staticaly.com/gh/qcfree/tvboxzy/main/自用线路.json"
 },
 {
 "sourceName":"一锅端仓库",
