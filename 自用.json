@@ -23,6 +23,7 @@
       "api": "http://xhww.fun:63/js/drpy1.min.js",
       "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
     },
+{"key": "荐片","name": "荐片磁力","type": 3,"playerType": "1","api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
 {"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
 {"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥[XYQH]","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
