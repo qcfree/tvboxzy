@@ -4,7 +4,7 @@
 "sites":[
 {"key":"js豆瓣","name":"🌎影视推荐(首页) QQ群:855827389","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://w.g9.pub:66/f/qxxAcX/drpy.js"},
 //{"key":"drpy_js_酷云七七","name":"👒酷云七七","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://w.g9.pub:66/f/pYgPiA/%E9%85%B7%E4%BA%9177.js"},
-{   "key":"drpy_js_荐片",          "name":"荐片",          "type":3,          "api":"https://pan.shangui.cc/f/8yzSo/drpy2.min.js",          "ext":"https://pan.shangui.cc/f/2mGmhx/%E8%8D%90%E7%89%87.js",          "playerType":"1"    },
+{   "key":"drpy_js_荐片",          "name":"荐片",          "type":3,          "api":"https://pan.shangui.cc/f/8yzSo/drpy2.min.js",          "ext":"https://pan.shangui.cc/f/2mGmhx/%E8%8D%90%E7%89%87.js",            },
     {
       "key": "贱贱",
       "name": "贱贱┃p2p",
