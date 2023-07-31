@@ -8,5 +8,13 @@
 "sourceName":"一锅端仓库",
 "sourceUrl":"http://xn--3pr.xn--e8yw23d.love:66/tvbox.json"
 }
+  {
+"sourceName":"纯4K资源线路",
+"sourceUrl":"https://gitee.com/pdscxz/tv/raw/master/video/4k.json"
+}
+  {
+"sourceName":"阿里无敌",
+"sourceUrl":"https://gitee.com/lekanbox/App/raw/master/ali.json"
+}
 ]
 }
