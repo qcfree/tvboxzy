@@ -25,25 +25,14 @@
     },
 {"key": "荐片","name": "荐片磁力","type": 3,"playerType": "1","api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
 {
-    "key": "lf_js_p2p",
-    "name": "磁力 | lf_p2p",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 1,
-    "quickSearch": 1,
-    "filterable": 1, 
-    "api": "https://cdn.staticaly.com/gh/qcfree/tvboxzy/main/cili/lf_p2p_min.js",
-    "ext": ""
- },
-      {
-            "key": "ky",
-            "name": "酷影蓝光",
+            "key": "csp_beijihu",
+            "name": "┃极狐┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.realdou.cn/api.php/app/"
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
         },
 {"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
