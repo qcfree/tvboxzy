@@ -34,6 +34,18 @@
             "filterable": 1,
             "ext": "https://www.kuin.one/api.php/app/"
         },
+     //同志电影
+      {
+            "key":"drpy_js_┃宅腐┃影视┃会吐",
+            "name":"宅腐影视[js]",
+            "type":3,
+            "api":"https://xhdwc.tk/lib/drpy2.min.js",
+            "ext":"https://xhdwc.tk/js/宅腐影视.js",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1
+        },    
+
       {"key":"drpy_js_影探[V2]","name":"影视 | 影探[V2]","type":3,"api":"https://raw.kgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.kgithub.com/gaotianliuyun/gao/master/js/影探[V2].js"},
 {"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
