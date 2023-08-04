@@ -83,6 +83,8 @@
 
 {"key":"csp_fantuan","name":"饭团[SP]","type":3,"api":"csp_Fantuan","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"https://www.fantuanhd.com"},
 
+{"key":"csp_fantuanxbpq","name":"饭团xbpq","type":3,"api":"csp_Fantuanxbpq","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":".饭团xbpq.json"},
+
 {"key":"csp_AppMr","name":"明明影视[SP]","type":3,"api":"csp_AppMr","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
 
 {"key":"csp_Dy1010","name":"双十电影[SP]","type":3,"api":"csp_Dy1010","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1"},
