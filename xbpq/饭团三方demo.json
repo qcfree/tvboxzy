@@ -19,6 +19,6 @@
 "搜索图片":"https://www.fantuanhd.com/statics/img/favicon.ico",
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4",
-"分类":"电影$20#电视剧$21#综艺$22#动漫$23#记录片$24#动画片$25",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录片$5#动画片$6",
 "分类url":"https://www.fantuanhd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
 }
