@@ -50,7 +50,7 @@
 {"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
 {"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥[XYQH]","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
-{"key":"csp_XYQHiker_饭团三方","name":"饭团三方demo","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/饭团三方demo.json"},
+{"key":"csp_XBPQ_饭团三方","name":"饭团三方demo","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/饭团三方demo.json"},
       
 {"key":"csp_XBPQ_360影视","name":"360影视","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/360影视.json"},
 
