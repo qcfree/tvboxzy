@@ -222,6 +222,7 @@
 {"key":"csp_XBPQ_无名小站","name":"无名小站","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/无名小站.json"},
 
 {"key":"csp_XBPQ_555电影","name":"555电影","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/555电影.json"},
+{"key":"csp_XBPQ_大米星球","name":"大米星球","type": 3,"api": "csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext": "./xbpq/大米星球xbpq.json"},
 
 {"key":"csp_XBPQ_大豆高清","name":"大豆高清","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/大豆高清.json"},
 
