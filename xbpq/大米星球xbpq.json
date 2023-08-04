@@ -3,7 +3,7 @@
   "站名": "大米星球",
   "主页url": "https://dami2.me",
   
-  "分类": "Netflix$/label/netflix#电影$/vodtype/20#电视剧$/vodtype/21#动漫$/vodtype/22#综艺$/vodtype/23",
+  "分类": "Netflix$/label/netflix#电影$/vodtype/20#电视剧$/vodtype/21#动漫$/vodtype/22#综艺$/vodtype/23#福利$/vodtype/35",
   
   "分类url": "https://dami2.me{cateId}/page/{catePg}.html",
   
