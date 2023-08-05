@@ -44,7 +44,16 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1
-        },    
+        },  
+      {
+            "key": "迷你库",
+            "name": "米粒APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
+        },
 {
       "key": "woggphp",
       "name": "🧲wogg(cli)",
