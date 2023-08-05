@@ -45,7 +45,15 @@
             "quickSearch": 1,
             "filterable": 1
         },    
-
+{
+      "key": "woggphp",
+      "name": "🧲wogg(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
       {"key":"drpy_js_影探[V2]","name":"影视 | 影探[V2]","type":3,"api":"https://raw.kgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.kgithub.com/gaotianliuyun/gao/master/js/影探[V2].js"},
 {"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
