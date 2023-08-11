@@ -82,7 +82,9 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvboxzy/main/json/duboku.json"
     },
 {"key":"素白白","name":"🚛素白白","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},
-      {"key":"drpy_js_影探[V2]","name":"影视 | 影探[V2]","type":3,"api":"https://raw.kgithub.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.kgithub.com/gaotianliuyun/gao/master/js/影探[V2].js"},
+{"key": "csp_appys_影探","name": "影探主接口|4K",
+      "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"style":{ "type":"rect", "ratio":1.33 },
+      "filterable": 1,"ext": "http://yt22106.lfytyl.com/api.php/app/","jar": "https://qu.ax/QdLc.jpg;md5;fd6a2cf8f31c7112731c5f90dab94847"},
 {"key":"csp_WoGG_玩偶哥哥","name":"玩偶哥哥[ysc]","type":3,"api":"csp_WoGG","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","jar":"./jar/ali.jar"},
 
 {"key":"csp_XYQHiker_玩偶哥哥","name":"玩偶哥哥[XYQH]","type":3,"api":"csp_XYQHikerAL","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","ext":"./XYQHiker/玩偶哥哥.json"},
