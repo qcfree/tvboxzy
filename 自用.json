@@ -82,6 +82,43 @@
       "changeable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvboxzy/main/json/duboku.json"
     },
+      //秒开。分辨率低，更新不及时
+       {
+            "key": "极速",
+            "name": "极速┃APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gvideo.me/api.php/app/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "categories": [
+                "综艺",
+                "国产剧",
+                "电影",
+                "动漫"
+            ]
+        },
+       {
+            "key": "暴风",
+            "name": "暴风Ⅱ影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://lg.tvcms.top/api.php/app/",
+            "categories": [
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },
 {"key":"素白白","name":"🚛素白白","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},
 {"key": "csp_appys_影探","name": "影探主接口|4K",
       "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"style":{ "type":"rect", "ratio":1.33 },
