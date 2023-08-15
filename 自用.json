@@ -83,7 +83,8 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qcfree/tvboxzy/main/json/duboku.json"
     },
       //秒开。分辨率低，更新不及时
-       {
+      
+      {
             "key": "极速",
             "name": "极速┃APP",
             "type": 3,
@@ -103,7 +104,7 @@
                 "动漫"
             ]
         },
-       {
+        {
             "key": "暴风",
             "name": "暴风Ⅱ影视",
             "type": 3,
@@ -118,7 +119,7 @@
                 "综艺",
                 "动漫"
             ]
-       },
+        },
                {
             "key": "奇奇",
             "name": "奇奇Ⅱ影视",
