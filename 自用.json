@@ -118,6 +118,25 @@
                 "综艺",
                 "动漫"
             ]
+               {
+            "key": "奇奇",
+            "name": "奇奇Ⅱ影视",
+            "type": 1,
+            "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "综艺",
+                "连续剧",
+                "电影",
+                "动漫"
+            ]
+        },
         },
 {"key":"素白白","name":"🚛素白白","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},
 {"key": "csp_appys_影探","name": "影探主接口|4K",
