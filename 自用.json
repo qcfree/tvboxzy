@@ -139,7 +139,26 @@
                 "动漫"
             ]
         },
-        
+ {
+            "key": "365",
+            "name": "365┃App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://guan.yy365.vip/api.php/app/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "categories": [
+                "电视剧",
+                "电影",
+                "综艺",
+                "动漫"
+            ]
+        },       
 {"key":"素白白","name":"🚛素白白","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/subaibai.js"},
 {"key": "csp_appys_影探","name": "影探主接口|4K",
       "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"style":{ "type":"rect", "ratio":1.33 },
