@@ -14,6 +14,13 @@
 "sites":[
 
 {"key":"drpy_js_豆瓣","name":"豆瓣[搜索]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
+       {
+            "key": "js_搜狗",
+            "name": "搜狗官源",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/搜狗影视.js"
+        },
 {"key":"drpy_js_荐片","name":"荐片","type":3,"api":"https://pan.shangui.cc/f/8yzSo/drpy2.min.js","ext":"https://pan.shangui.cc/f/2mGmhx/%E8%8D%90%E7%89%87.js" },    
 {
       "key": "贱贱",
