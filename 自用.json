@@ -71,6 +71,16 @@
         "changeable": 1
     },
       {"key": "csp_XBPQ_米爱", "name": "米爱☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/米爱影视.json"},
+
+       {
+      "key": "csp_woggcli",
+      "name": "业余|俊哥玩偶.CLi",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=内置token",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "woggphp",
       "name": "🧲wogg(cli)",
