@@ -62,7 +62,9 @@
             "changeable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
-      {"key":"open_js_琨魚","name":"琨魚","type":3,"api":"https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kunyu77_open.js","ext":"https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/lib/cat.js"},
+
+       
+     // {"key":"open_js_琨魚","name":"琨魚","type":3,"api":"https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/kunyu77_open.js","ext":"https://fongmi.cachefly.net/catvod/CatVodOpen/main/open/lib/cat.js"},
       {
         "key": "open_js_琨魚",
         "name": "琨魚",
