@@ -32,7 +32,7 @@
       "ext": "http://smallmi.xiaohewanwan.love:63/jp.js"
     },
 {"key": "荐片","name": "荐片磁力","type": 3,"playerType": "1","api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
-{"key": "drpy_玉米","name": "玉米☆影视","type": 3,"api": "./lib/drpy2.min.js", "playerType":2, "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/玉米影视.js"},
+{"key": "drpy_玉米","name": "玉米☆影视","type": 3,"api": "./js/lib/drpy2.min.js", "playerType":2, "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/玉米影视.js"},
         {
       "key": "黑狐",
       "name": "黑狐┃BPQ",
