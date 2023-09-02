@@ -86,6 +86,8 @@
             "filterable": 1,
             "ext": "https://www.kuin.one/api.php/app/"
         },
+
+       {"key": "火狐","name": "茶杯狐","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","伦理片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
      //同志电影
       {
             "key":"drpy_js_┃宅腐┃影视┃会吐",
