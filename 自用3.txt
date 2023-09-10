@@ -1,5 +1,5 @@
 {
-  "spider": "./Jar/0324.jar",
+  "spider": "https://codeberg.org/jgfx/dym/raw/branch/master/Jar/0324.jar",
   "warningText": "公众号非凡工具箱提醒您:本接口长期更新 完全免费 请放心使用",
   "lives": [
     {
