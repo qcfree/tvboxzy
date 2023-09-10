@@ -2,6 +2,8 @@
 "urls": [
 {"name":"自用","url":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/自用.json"},
 
+{"name":"自用001","url":"https://ghproxy.net/https://raw.githubusercontent.com/qcfree/tvboxzy/main/001.txt"},
+
 {"name":"车姐","url":"https://weixine.net/ysc.json"},
   
 {"name":"XBPQ","url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/XBPQ.json"},
