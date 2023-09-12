@@ -101,7 +101,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./Jar/cili.jar"
+      "jar": "https://codeberg.org/jgfx/dym/raw/branch/master/Jar/cili.jar"
     },
     {
       "key": "csp_KubaCL",
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./Jar/cili.jar"
+      "jar": "https://codeberg.org/jgfx/dym/raw/branch/master/Jar/cili.jar"
     },
     {
       "key": "csp_SeedHub",
@@ -139,36 +139,36 @@
       "key": "drpy_js_360影视",
       "name": "官源 | 360",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/360影视.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾云驾雾.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/百忙无果.js"
     },
     {
       "key": "csp_77",
@@ -185,17 +185,17 @@
       "name": "影视 | 哔哩影视",
       "type": 3,
       "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
-      "ext": "./js/哔哩影视.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/哔哩影视.js"
     },
     {
       "key": "drpy_js_新片场",
       "name": "影视 | 新片场",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./js/新片场.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/新片场.js"
     },
     {
       "key": "鸭鸭",
@@ -272,71 +272,71 @@
       "key": "drpy_js_爱迪[V2]",
       "name": "影视 | 爱迪",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱迪[V2].js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/爱迪[V2].js"
     },
     {
       "key": "drpy_js_创艺影视[V2]",
       "name": "影视 | 创艺影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/创艺影视[V2].js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/创艺影视[V2].js"
     },
     {
       "key": "drpy_js_咕噜[V2]",
       "name": "影视 | 咕噜",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/咕噜[V2].js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/咕噜[V2].js"
     },
     {
       "key": "drpy_js_花猪影视[V2]",
       "name": "影视 | 花猪影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/花猪影视[V2].js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/花猪影视[V2].js"
     },
     {
       "key": "drpy_js_萌蛋蛋[V2]",
       "name": "影视 | 萌蛋蛋",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/萌蛋蛋[V2].js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/萌蛋蛋[V2].js"
     },
     {
       "key": "drpy_js_迷你库[V2]",
       "name": "影视 | 迷你库",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/迷你库[V2].js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/迷你库[V2].js"
     },
     {
       "key": "drpy_js_速看100[V2]",
       "name": "影视 | 速看100",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/速看100[V2].js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/速看100[V2].js"
     },
     {
       "key": "drpy_js_7喜影院",
       "name": "影视 | 7喜影院",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/7喜影院.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/7喜影院.js"
     },
     {
       "key": "drpy_js_139影视",
       "name": "影视 | 139影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/139影视.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/139影视.js"
     },
     {
       "key": "drpy_js_创艺影视",
       "name": "影视 | 创艺影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/创艺影视.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/创艺影视.js"
     },
     {
       "key": "csp_xBPQ_创意影视",
@@ -353,29 +353,29 @@
       "key": "drpy_js_光棍影院",
       "name": "影视 | 光棍影院",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/光棍影院.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/光棍影院.js"
     },
     {
       "key": "drpy_js_看看屋",
       "name": "影视 | 看看屋",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/看看屋.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/看看屋.js"
     },
     {
       "key": "drpy_js_乐鱼影视",
       "name": "影视 | 乐鱼影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/乐鱼影视.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/乐鱼影视.js"
     },
     {
       "key": "drpy_js_乐猪TV",
       "name": "影视 | 乐猪TV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/乐猪TV.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/乐猪TV.js"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -402,22 +402,22 @@
       "key": "drpy_js_两个BT",
       "name": "影视 | 两个BT",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/两个BT.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/两个BT.js"
     },
     {
       "key": "drpy_js_首播影院",
       "name": "影视 | 首播影院",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/首播影院.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/首播影院.js"
     },
     {
       "key": "drpy_js_素白白",
       "name": "影视 | 素白白",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/素白白.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/素白白.js"
     },
     {
       "key": "csp_xBPQ_素白白影视",
@@ -434,29 +434,29 @@
       "key": "drpy_js_我爱跟剧",
       "name": "影视 | 我爱跟剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/我爱跟剧.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/我爱跟剧.js"
     },
     {
       "key": "drpy_js_稀饭影视",
       "name": "影视 | 稀饭影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/稀饭影视.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/稀饭影视.js"
     },
     {
       "key": "drpy_js_子子影视",
       "name": "影视 | 子子影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/子子影视.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/子子影视.js"
     },
     {
       "key": "drpy_js_量子影视",
       "name": "影视 | 量子影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/量子影视.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/量子影视.js"
     },
     {
       "key": "量子资源",
@@ -517,7 +517,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/灰太狼影视.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/灰太狼影视.json"
     },
     {
       "key": "轻简",
@@ -592,7 +592,7 @@
       "name": "影视 | ️蓝光",
       "type": 3,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "./js/%E8%87%AA%E8%90%A5.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/%E8%87%AA%E8%90%A5.js"
     },
     {
       "key": "EMO",
@@ -606,7 +606,7 @@
       "name": "影视 | ️聚合",
       "type": 3,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "./js/ikan.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/ikan.js"
     },
     {
       "key": "臭蛋蛋",
@@ -627,7 +627,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_fk",
@@ -637,7 +637,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/菲克高清.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/菲克高清.json"
     },
     {
       "key": "csp_策驰",
@@ -647,7 +647,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/策驰影视.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/策驰影视.json"
     },
     {
       "key": "csp_mingd",
@@ -657,55 +657,55 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/明帝.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/明帝.json"
     },
     {
       "key": "drpy_js_好趣网",
       "name": "综合 | 好趣网",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/好趣网.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/好趣网.js"
     },
     {
       "key": "drpy_js_短视频",
       "name": "综合 | 短视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/短视频.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/短视频.js"
     },
     {
       "key": "drpy_js_酷6网",
       "name": "综合 | 酷6网",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/酷6网.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/酷6网.js"
     },
     {
       "key": "drpy_js_网易公版影像",
       "name": "综合 | 网易公版",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/网易公版影像.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/网易公版影像.js"
     },
     {
       "key": "drpy_js_310直播",
       "name": "体育 | 310直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/310直播.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/310直播.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "体育 | JRKAN直播",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy.min.js",
       "changeable": 0,
-      "ext": "./js/JRKAN直播.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/JRKAN直播.js"
     },
     {
       "key": "企鹅体育",
@@ -721,11 +721,11 @@
       "key": "dr_武享吧",
       "name": "体育 | 拳皇争霸",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/js/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./js/武享吧.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/武享吧.js"
     },
     {
       "key": "csp_Bili",
@@ -735,7 +735,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/bili.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/bili.json"
     },
     {
       "key": "py_dashan",
@@ -745,7 +745,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/搭讪.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/搭讪.py"
     },
     {
       "key": "py_dapei",
@@ -755,7 +755,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/搭配.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/搭配.py"
     },
     {
       "key": "js_B站精简",
@@ -765,7 +765,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/B站精简.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/B站精简.js"
     },
     {
       "key": "py_meishi",
@@ -775,7 +775,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/美食合集.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/美食合集.py"
     },
     {
       "key": "py_youer",
@@ -785,7 +785,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/youer.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/youer.py"
     },
     {
       "key": "py_xiaoxue",
@@ -795,7 +795,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/xiaoxue.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/xiaoxue.py"
     },
     {
       "key": "py_czxx",
@@ -805,7 +805,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/chuzhong.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/chuzhong.py"
     },
     {
       "key": "py_gaozxx",
@@ -815,7 +815,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/gaozhong.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/gaozhong.py"
     },
     {
       "key": "py_zyy",
@@ -825,7 +825,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/zyy.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/zyy.py"
     },
     {
       "key": "py_xuqu1",
@@ -835,7 +835,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/xiqu.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/xiqu.py"
     },
     {
       "key": "py_TYjs",
@@ -845,7 +845,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/tiyu.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/tiyu.py"
     },
     {
       "key": "py_xiangsh",
@@ -855,7 +855,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/xiaopin.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/xiaopin.py"
     },
     {
       "key": "py_FBqx",
@@ -865,7 +865,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/qiudui.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/qiudui.py"
     },
     {
       "key": "py_Meinvw",
@@ -875,7 +875,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/meinv.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/meinv.py"
     },
     {
       "key": "csp_Biliych",
@@ -885,7 +885,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./js/biliych.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/biliych.json"
     },
     {
       "key": "歌手_MV",
@@ -902,7 +902,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/geshou.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/geshou.py"
     },
     {
       "key": "py_Nvtuan",
@@ -912,7 +912,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/nvtuan.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/nvtuan.py"
     },
     {
       "key": "py_MTV",
@@ -922,46 +922,46 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/mtv.py"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/py/mtv.py"
     },
     {
       "key": "drpy_js_相声随身听",
       "name": "相声 | 相声随身听",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/相声随身听.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/相声随身听.js"
     },
     {
       "key": "drpy_js_Alist",
       "name": "网盘 | Alist",
       "type": 3,
-      "api": "./lib/alist.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/alist.min.js",
       "changeable": 0,
-      "ext": "./js/alist.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/alist.json"
     },
     {
       "key": "drpy_js_童趣",
       "name": "少儿 | 童趣",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/童趣.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/童趣.js"
     },
     {
       "key": "drpy_js_兔小贝",
       "name": "少儿 | 兔小贝",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/兔小贝.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/兔小贝.js"
     },
     {
       "key": "drpy_js_动漫岛",
       "name": "动漫 | 动漫岛",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/动漫岛.js"
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/动漫岛.js"
     },
     {
       "key": "csp_Anime1",
@@ -991,121 +991,121 @@
       "key": "drpy_js_DJ音乐",
       "name": "音频 | DJ音乐",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/DJ音乐.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/DJ音乐.js"
     },
     {
       "key": "drpy_js_啦啦DJ",
       "name": "音频 | 啦啦DJ",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/啦啦DJ.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/啦啦DJ.js"
     },
     {
       "key": "drpy_js_清风DJ",
       "name": "音频 | 清风DJ",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/清风DJ.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/清风DJ.js"
     },
     {
       "key": "drpy_js_喜马拉雅",
       "name": "听书 | 喜马拉雅",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/喜马拉雅.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/喜马拉雅.js",
       "playerType": "2"
     },
     {
       "key": "drpy_js_爱上你听书网",
       "name": "听书 | 爱上你听书",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/爱上你听书网.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/爱上你听书网.js"
     },
     {
       "key": "drpy_js_博看听书",
       "name": "听书 | 博看听书",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/博看听书.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/博看听书.js"
     },
     {
       "key": "drpy_js_海洋听书",
       "name": "听书 | 海洋听书",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/海洋听书.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/海洋听书.js"
     },
     {
       "key": "drpy_js_六月听书",
       "name": "听书 | 六月听书",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/六月听书.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/六月听书.js"
     },
     {
       "key": "drpy_js_中华听书网",
       "name": "听书 | 中华听书",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/中华听书网.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/中华听书网.js"
     },
     {
       "key": "drpy_js_MV263",
       "name": "音乐 | 263",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/MV263.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/MV263.js"
     },
     {
       "key": "drpy_js_A8音乐",
       "name": "音乐 | A8音乐",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/A8音乐.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/A8音乐.js"
     },
     {
       "key": "drpy_js_爱车MV",
       "name": "音乐 | 爱车MV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/爱车MV.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/爱车MV.js"
     },
     {
       "key": "drpy_js_酷狗MV",
       "name": "音乐 | 酷狗",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/酷狗MV.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/酷狗MV.js"
     },
     {
       "key": "drpy_js_苹果DJ",
       "name": "音乐 | 苹果DJ",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/苹果DJ.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/苹果DJ.js"
     },
     {
       "key": "drpy_js_音悦网",
       "name": "音乐 | 音悦网",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/音悦网.js"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/音悦网.js"
     },
     {
       "key": "艾旦影视",
