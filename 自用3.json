@@ -90,7 +90,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./Jar/cili.jar"
+      "jar": "https://codeberg.org/jgfx/dym/raw/branch/master/Jar/cili.jar"
     },
     {
       "key": "csp_SeedHub",
