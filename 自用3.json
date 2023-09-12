@@ -65,9 +65,9 @@
       "key": "drpy_js_直播大全",
       "name": "直播大全",
       "type": 3,
-      "api": "./lib/live2cms.js",
+      "api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/live2cms.js",
       "changeable": 0,
-      "ext": "./js/live2mv_data.json"
+      "ext": "https://codeberg.org/jgfx/dym/raw/branch/master/js/live2mv_data.json"
     },
        {"key": "csp_XBPQ_6V","name": "magnet | 宝盒","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
 
