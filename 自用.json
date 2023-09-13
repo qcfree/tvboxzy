@@ -76,16 +76,7 @@
             "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
             "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
         },
-       {
-            "name": "1080P_HDR",
-            "type": 1,
-            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "okhttp/3.12.11"
-                }
-            }
-        },
+      
        {"key": "秒看","name": "🥪秒看资源","type": 1,"api": "http://mkzy.vip/api.php/provide/vod","searchable": 0,"quickSearch": 0},
 {"key":"drpy_js_荐片","name":"荐片","type":3,"api":"https://pan.shangui.cc/f/8yzSo/drpy2.min.js","ext":"https://pan.shangui.cc/f/2mGmhx/%E8%8D%90%E7%89%87.js" },    
 {
