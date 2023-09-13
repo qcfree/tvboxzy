@@ -14,9 +14,9 @@
 "sites":[
 
 
-{"key":"drpy_js_豆瓣","name":"豆瓣[搜索]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
+//{"key":"drpy_js_豆瓣","name":"豆瓣[搜索]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
 
-       {"key": "drpy_喜马拉雅","name":"喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"./JS/喜马拉雅.js"},
+       //{"key": "drpy_喜马拉雅","name":"喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"./JS/喜马拉雅.js"},
 
        
        {
