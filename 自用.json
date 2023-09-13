@@ -19,14 +19,54 @@
        //{"key": "drpy_喜马拉雅","name":"喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"./JS/喜马拉雅.js"},
 
        {
-            "name": "1080P_HDR",
+            "key": "1080b",
+            "name": "1080P站-B",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.90.7:85/api.php/app/"
+        },
+        {
+            "key": "1080c",
+            "name": "1080P站-C",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.iptv.ski/api.php/app/"
+        },
+        {
+            "key": "me_qq",
+            "name": "4KHDR站-B",
             "type": 1,
-            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "okhttp/3.12.11"
-                }
-            }
+            "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "MX",
+            "name": "4KHDR站-C",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.90.7:86/api.php/app/"
+        },
+        {
+            "key": "yc",
+            "name": "4KHDR站-D",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_Hdhive",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
         },
        
        {
