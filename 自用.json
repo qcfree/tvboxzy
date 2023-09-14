@@ -18,16 +18,7 @@
 
        //{"key": "drpy_喜马拉雅","name":"喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"./JS/喜马拉雅.js"},
 
-       {
-            "name": "1080P_HDR",
-            "type": 1,
-            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "okhttp/3.12.11"
-                }
-            }
-        },
+       
 
        {
             "key": "1080b",
