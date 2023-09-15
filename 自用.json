@@ -18,7 +18,20 @@
 
        //{"key": "drpy_喜马拉雅","name":"喜马拉雅","type":3,"api":"./JS/lib/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"./JS/喜马拉雅.js"},
 
-       
+    {
+      "key": "小胡",
+      "name": "小胡",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/"
+    },
+    {
+      "key": "YYs",
+      "name": "YYs",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://mp4.ghlyys.com/api.php/app/"
+    },    
 
        {
             "key": "1080b",
