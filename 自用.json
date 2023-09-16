@@ -31,7 +31,16 @@
       "jar":"https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     }, 
 
-      
+      {
+        "key": "maolv_open",
+        "name": "影视|毛驴",
+        "type": 3,
+        "api": "csp_Maolv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },
        
        {
             "key": "1080b",
