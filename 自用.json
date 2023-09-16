@@ -559,7 +559,7 @@
 {"name":"轮询3","type":2,"url":"Sequence"},
 //以下为添加
 
-         "name": "锦哥解析",
+         {"name": "锦哥解析",
             "type": 1,
             "url": "http://json.xg688.top/api/?key=ApHG2jGcimQWPOj5mO&url="
         },		
