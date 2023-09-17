@@ -42,11 +42,11 @@
         "jar":"https://raw.fgit.cf/qcfree/tvboxzy/main/jar/OpenSpider.jar"
     },
 {"key": "drpy_抖音追忆","name": "👶抖音☆追忆",
-       "type": 3,"api": "./js/lib/drpy2.min.js",
+       "type": 3,"api": "./Js/lib/drpy2.min.js",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "ext": "./js/抖音追忆.js"},
+       "ext": "./Js/抖音追忆.js"},
        
        {
             "key": "1080b",
@@ -103,8 +103,8 @@
             "key": "js_搜狗",
             "name": "搜狗官源",
             "type": 3,
-            "api": "./js/lib/drpy2.min.js",
-            "ext": "./js/搜狗影视.js"
+            "api": "./Js/lib/drpy2.min.js",
+            "ext": "./Js/搜狗影视.js"
         },
        
       
