@@ -1,7 +1,7 @@
 {
-        "spider":"./jar/xyqg0913.jar",
+        //"spider":"./jar/xyqg0913.jar",
 
-//"spider":"./jar/zy.jar",
+"spider":"./jar/zy.jar",
 "lives":[
 {"name":"直播","type":0,"url":"./tv/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
