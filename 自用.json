@@ -44,6 +44,16 @@
         "ext":"https://ys.airtool.vip/xgapp.php/v2/"
 },
 
+        {
+                "key": "csp_sp_龙门影视",
+                "name": "推荐|龙门影现",
+                "type": 3,
+                "api": "csp_AppYsV2",
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 1,
+                "ext": "https://movie.iqinu.com/api.php/v1.vod"
+        },
         
       {
         "key": "maolv_open",
