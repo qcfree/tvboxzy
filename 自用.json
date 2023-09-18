@@ -33,6 +33,16 @@
       "jar":"https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     }, 
 
+        {
+                "key":"csp sp 龙门影视",
+                "name":"推荐|龙门影现",
+                "type":3,
+                "api": "csp AppYs2",
+                "searchable"1,
+                "quickSearch"1,
+                "filterable":1,
+                "ext"."https://movieiginu.com/api.php/v1.vod"},
+        
 {"key" : "csp_appys_空气屋",
         "name" : "空气屋|视频",
         "type":3,
