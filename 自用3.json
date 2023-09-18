@@ -243,6 +243,13 @@
       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"
     },
     {
+            "key": "js_搜狗",
+            "name": "搜狗官源",
+            "type": 3,
+            "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
+            "ext": "https://raw.fgit.cf/qcfree/tvboxzy/main/JS/搜狗影视.js"
+        },
+    {
       "key": "drpy_哔哩影视",
       "name": "影视 | 哔哩影视",
       "type": 3,
