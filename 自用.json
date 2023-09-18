@@ -33,7 +33,16 @@
       "jar":"https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     }, 
         
-
+{
+        "key" : "csp_appys_空气屋",
+        "name" : "空气屋|视频",
+        "type":3,
+        "api":"csp_AppYsV2",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://ys.airtool.vip/xgapp.php/v2/"
+},
 
         
       {
