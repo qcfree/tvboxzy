@@ -44,7 +44,7 @@
         "jar":"https://raw.fgit.cf/qcfree/tvboxzy/main/jar/OpenSpider.jar"
     },
 {"key": "抖音追忆","name": "👶抖音☆追忆",
-       "type": 3,"api": "./Js/lib/drpy2.min.js",
+       "type": 3,"api": "https://codeberg.org/jgfx/dym/raw/branch/master/lib/drpy2.min.js",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
