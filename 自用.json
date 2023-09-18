@@ -52,7 +52,8 @@
                 "quickSearch": 1,
                 "filterable": 0,
                 "ext": "",
-                "jar": "http://cdn.qiaoji8.com/fix0907.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"},
+                "jar": "http://cdn.qiaoji8.com/fix0907.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"
+        },
         {
 "key": "csp_sp_哗哩免源",
                 "name": "爬虫|哗哩免源",
@@ -91,7 +92,8 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
-        "ext":"https://ys.airtool.vip/xgapp.php/v2/"},
+        "ext":"https://ys.airtool.vip/xgapp.php/v2/"
+},
 
         
       {
