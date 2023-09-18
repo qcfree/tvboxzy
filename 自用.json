@@ -856,7 +856,7 @@
 
 {"host":"v.douyin.com","rule":["playwm/?video_id="]}
 
-],
+
 {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"GGTV快速","type": 1,"url":"https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url="},
 {"name":"爱酷","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
