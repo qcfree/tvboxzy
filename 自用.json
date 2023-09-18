@@ -820,8 +820,7 @@
 
 {"name":"芒果腾讯专用","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 
-{"name":"夜幕嗅探","url":"https://www.yemu.xyz/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}}      
-
+{"name":"夜幕嗅探","url":"https://www.yemu.xyz/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}}
 
 ],
 
@@ -857,9 +856,8 @@
 
 {"host":"v.douyin.com","rule":["playwm/?video_id="]}
 
-
-
 ],
+
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","fun","letv","leshi","sohu","tudou","xigua","cntv","1905","m1905","pptv","PPTV","mgtv","imgo","wasu","bilibili","renrenmi","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","xmm","funshion","优酷","优 酷","优酷视频","腾讯","腾 讯","腾讯视频","奇艺","爱奇艺","爱 奇 艺","奇艺视频","爱奇艺视频","乐视","乐 视","乐视视频","搜狐","搜 狐","搜狐视频","芒果","芒果视频","芒果TV","芒 果 T V","西瓜","西瓜视频","哔哩","哔哩哔哩"],
 
