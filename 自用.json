@@ -32,18 +32,6 @@
       "ext": "http://ytcms.lyyytv.cn/api.php/app/",
       "jar":"https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     }, 
-
-        {
-                "key": "csp_sp_龙门影视",
-                "name": "推荐|龙门影现",
-                "type": 3,
-                "api": "csp_AppYsV2",
-                "searchable": 1,
-                "quickSearch": 1,
-                "filterable": 1,
-                "ext": "https://movie.iqinu.com/api.php/v1.vod"
-        },
-        
         
 {
         "key" : "csp_appys_空气屋",
