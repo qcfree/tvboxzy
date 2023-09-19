@@ -33,6 +33,11 @@
       "jar":"https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     }, 
 
+{"key": "csp_XBPQ_往往", "name": "往往☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext":  {"分类url": "http://www.oftens.top/oftensshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu"},
+"jar":"https://cloud.lxweb.cn/f/rBBiE/xyqg0913.jar"},
+        
  {
          "key":"探探1",
          "name":"龙龙|影探",
