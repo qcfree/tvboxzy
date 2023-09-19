@@ -37,6 +37,7 @@
 "ext":  {"分类url": "http://www.oftens.top/oftensshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu"},
 "jar":"https://cloud.lxweb.cn/f/rBBiE/xyqg0913.jar"},
+
         
  {
          "key":"探探1",
@@ -613,7 +614,9 @@
 {"name":"并发2","type":2,"url":"Parallel"},
 {"name":"轮询3","type":2,"url":"Sequence"},
 //以下为添加
-
+{"name": "小书","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name": "官解","type": 1,"url": "http://119.91.123.253:1234/Api/cs.php?url="},
+{"name": "大厂","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
          {"name": "锦哥解析",
             "type": 1,
             "url": "http://json.xg688.top/api/?key=ApHG2jGcimQWPOj5mO&url="
