@@ -61,7 +61,14 @@
         "filterable":1,
         "ext":"https://ys.airtool.vip/xgapp.php/v2/"
 },
-
+{"key":"49",
+        "name":"┃资源",
+        "type":1,
+        "api":"https://49zyw.com/api.php/provide/vod/at/json",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "categories":["电影解说","国产剧","欧美剧","日剧","韩国剧","海外据","台湾剧","香港剧","泰国剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","奇幻片","动画片","日本动漫","欧美动漫","国产动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
         {
                 "key": "csp_appys_龙门影视",
                 "name": "推荐|龙门影现",
