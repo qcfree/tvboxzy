@@ -32,6 +32,19 @@
       "ext": "http://ytcms.lyyytv.cn/api.php/app/",
       "jar":"https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     }, 
+
+ {
+         "key":“探探",
+         "name":"龙龙|影探",
+         "type":3,
+         "playerType":"1”,
+         "api": "csp_YTVIP",
+         "searchable":1,
+         "quickSearch": 1,
+         "changeable":1,
+         "ext": "vip.lyyytv.cn",
+         "jar":"./fty.jar
+        },
         
 {
         "key" : "csp_appys_空气屋",
