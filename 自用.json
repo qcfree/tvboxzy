@@ -34,16 +34,16 @@
     }, 
 
  {
-         "key":“探探",
+         "key":“探探1",
          "name":"龙龙|影探",
          "type":3,
-         "playerType":"1”,
+         "playerType":"1",
          "api": "csp_YTVIP",
          "searchable":1,
          "quickSearch": 1,
          "changeable":1,
          "ext": "vip.lyyytv.cn",
-         "jar":"./fty.jar
+         "jar":"./fty.jar"
         },
         
 {
