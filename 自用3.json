@@ -2,19 +2,17 @@
 {
   "spider": "https://codeberg.org/jgfx/dym/raw/branch/master/Jar/0324.jar",
   "warningText": "公众号非凡工具箱提醒您: 完全免费",
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMTU0OTMzL2JiemIudHh0P3NpZ249XzhSTmhueDFJbDBXeVlVLXNKWFV6VHBlaXI5b05uUUlieklCcWt4U2UwWSUzRCUzQTA="
-          ]
-        }
-      ]
-    }
-  ],
+  "lives":[
+{"name":"直播","type":0,"url":"./tv/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"辽宁移动","type":0,"url":"./tv/辽宁移动.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"直播源","type":0,"url":"./tv/live1.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+
+  "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+
+"warningText":"",
+  
   "sites": [
        
  
@@ -57,7 +55,19 @@
     },
 {"key": "csp_FirstAid_急救","name": "‍急救☆指南","type": 3,"api": "csp_FirstAid","searchable": 1,"quickSearch": 1, "changeable":0,"jar":"https://raw.fgit.cf/qcfree/tvboxzy/main/jar/aid.jar"},
     
-
+ {    "key": "全看",
+                "name": "全看影院",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "ext": {
+                
+"简介":"class=\"panel play_content&&</div>",      "倒序":"0",       
+ "链接":"/play/+/detail/&&.html+-1-1.html",         
+ "线路数组":"class=\"tab-play&&</li>",
+ "线路标题":"&nbsp;&&</span>",    
+    "分类url":"https://m.quankanw.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html"   
+        }
+        },    
     
     {"key":"csp_XBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/歪片星球.json"},
     
