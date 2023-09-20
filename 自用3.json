@@ -55,19 +55,16 @@
     },
 {"key": "csp_FirstAid_急救","name": "‍急救☆指南","type": 3,"api": "csp_FirstAid","searchable": 1,"quickSearch": 1, "changeable":0,"jar":"https://raw.fgit.cf/qcfree/tvboxzy/main/jar/aid.jar"},
     
- {    "key": "全看",
-                "name": "全看影院",
-                "type": 3,
-                "api": "csp_XBPQ",
-                "ext": {
-                
-"简介":"class=\"panel play_content&&</div>",      "倒序":"0",       
- "链接":"/play/+/detail/&&.html+-1-1.html",         
- "线路数组":"class=\"tab-play&&</li>",
- "线路标题":"&nbsp;&&</span>",    
-    "分类url":"https://m.quankanw.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html"   
-        }
-        },    
+{"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":  {
+"简介":"class=\"panel play_content\"&&</div>", 
+"倒序":"0",       
+"链接":"/play/+/detail/&&.html+-1-1.html",         
+"线路数组":"class=\"tab-play&&</li>",
+"线路标题":"&nbsp;&&</span>[排序:移动①播放源>联通①线>电信①播放源]",    
+"分类url":"https://www.quankanw.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html" ,
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
+},
     
     {"key":"csp_XBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/歪片星球.json"},
     
