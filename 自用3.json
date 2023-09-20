@@ -55,8 +55,11 @@
         "电影解说"
       ]
     },
+{"key": "csp_FirstAid_急救","name": "‍急救☆指南","type": 3,"api": "csp_FirstAid","searchable": 1,"quickSearch": 1, "changeable":0,"jar":"./jar/aid.jar"},
+    
 
-  {"key":"csp_XBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/歪片星球.json"},
+    
+    {"key":"csp_XBPQ_歪片星球","name":"歪片星球️","type":3,"api":"csp_XBPQ","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"./xbpq/歪片星球.json"},
     
 {"key":"csp_AppYsV2_555电影","name":"555电影[APP]","type":3,"api":"csp_AppYsV2","searchable":"1","quickSearch":"1","filterable":"1","changeable":"1","playUrl":"","ext":"https://555yy1.com/api.php/app/"},
 
