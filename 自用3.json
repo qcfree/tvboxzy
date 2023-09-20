@@ -55,7 +55,7 @@
         "电影解说"
       ]
     },
-{"key": "csp_FirstAid_急救","name": "‍急救☆指南","type": 3,"api": "csp_FirstAid","searchable": 1,"quickSearch": 1, "changeable":0,"jar":"./jar/aid.jar"},
+{"key": "csp_FirstAid_急救","name": "‍急救☆指南","type": 3,"api": "csp_FirstAid","searchable": 1,"quickSearch": 1, "changeable":0,"jar":"https://raw.fgit.cf/qcfree/tvboxzy/main/jar/aid.jar"},
     
 
     
