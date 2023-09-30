@@ -54,7 +54,7 @@
       ]
     },
 {"key": "csp_FirstAid_急救","name": "‍急救☆指南","type": 3,"api": "csp_FirstAid","searchable": 1,"quickSearch": 1, "changeable":0,"jar":"https://raw.fgit.cf/qcfree/tvboxzy/main/jar/aid.jar"},
-    
+{"key":"lgz_徕米","name":"️🔰徕米影院","type":3,"api":"XBPQ","ext":"免嗅:1,分类:电视剧$dianshiju#电影$dianying#综艺$zongyi#少儿$shaoer#动漫$dongman,分类url:https://www.laimitv.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},    
 {"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":  {
 "简介":"class=\"panel play_content\"&&</div>", 
